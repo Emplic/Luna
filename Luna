@@ -999,9 +999,9 @@ local IconModule = {
 		["camera_alt"] = "http://www.roblox.com/asset/?id=6031572307";
 		["audiotrack"] = "http://www.roblox.com/asset/?id=6031471489";
 		["filter_none"] = "http://www.roblox.com/asset/?id=6031600815";
-		["blur_off"] = "http://www.roblox.com/asset/?id=6031371055";
+		["blur_off"] = "";
 		["crop_16_9"] = "http://www.roblox.com/asset/?id=6031630205";
-		["blur_on"] = "http://www.roblox.com/asset/?id=6031371068";
+		["blur_on"] = "";
 		["brightness_4"] = "http://www.roblox.com/asset/?id=6031471483";
 		["details"] = "http://www.roblox.com/asset/?id=6034328968";
 		["panorama_horizontal"] = "http://www.roblox.com/asset/?id=6034315966";
@@ -1049,7 +1049,7 @@ local IconModule = {
 		["switch_camera"] = "http://www.roblox.com/asset/?id=6031754550";
 		["filter_vintage"] = "http://www.roblox.com/asset/?id=6031600811";
 		["photo_size_select_small"] = "http://www.roblox.com/asset/?id=6031763457";
-		["blur_linear"] = "http://www.roblox.com/asset/?id=6031488930";
+		["blur_linear"] = "";
 		["hdr_on"] = "http://www.roblox.com/asset/?id=6034333279";
 		["tag_faces"] = "http://www.roblox.com/asset/?id=6031754560";
 		["21mp"] = "http://www.roblox.com/asset/?id=6031339065";
@@ -1135,7 +1135,7 @@ local IconModule = {
 		["filter_tilt_shift"] = "http://www.roblox.com/asset/?id=6031600814";
 		["image"] = "http://www.roblox.com/asset/?id=6034407078";
 		["center_focus_weak"] = "http://www.roblox.com/asset/?id=6031625144";
-		["blur_circular"] = "http://www.roblox.com/asset/?id=6031488945";
+		["blur_circular"] = "";
 		["bedtime"] = "http://www.roblox.com/asset/?id=6031371054";
 		["auto_fix_high"] = "http://www.roblox.com/asset/?id=6031360355";
 		["monochrome_photos"] = "http://www.roblox.com/asset/?id=6034323678";
